@@ -1,0 +1,22 @@
+[
+  {
+    "username": "x",
+    "password": "x",
+    "role": "admin",
+    "expiresAt": 1764340490803,
+    "createdAt": null
+  },
+  {
+    "username": "Peler",
+    "password": "1234",
+    "role": "owner",
+    "expiresAt": null,
+    "createdAt": 1761980013695
+  },
+  {
+    "username": "xx",
+    "password": "xx",
+    "role": "user",
+    "expiresAt": 1764577534485,
+    "createdAt": 1761985534488
+  }
