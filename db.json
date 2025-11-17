@@ -5,5 +5,12 @@
     "role": "reseller",
     "expiresAt": 1762821998536,
     "createdAt": 1762735598536
+  },
+  {
+    "username": "wizz",
+    "password": "127",
+    "role": "owner",
+    "expiresAt": 1771922152315,
+    "createdAt": 1763368552315
   }
 ]
