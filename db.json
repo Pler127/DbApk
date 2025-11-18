@@ -12,5 +12,12 @@
     "role": "owner",
     "expiresAt": 1771922152315,
     "createdAt": 1763368552315
+  },
+  {
+    "username": "pler",
+    "password": "buyer",
+    "role": "owner",
+    "expiresAt": 1766022717747,
+    "createdAt": 1763430717747
   }
 ]
